@@ -26,6 +26,11 @@ A simple client‑side web application that translates text between languages us
 3. Choose the desired languages and press the button.
 4. The translation appears below; use icons for additional actions.
 
+## Screenshots
+
+<img width="1040" height="914" alt="image" src="https://github.com/user-attachments/assets/275a51f6-6217-4f58-9e99-ff1fca85cb88" />
+
+
 ## Development
 
 - You can edit any of the three files directly. They are plain HTML/CSS/JS and don't require a server.
