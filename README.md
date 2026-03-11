@@ -30,7 +30,3 @@ A simple client‑side web application that translates text between languages us
 
 - You can edit any of the three files directly. They are plain HTML/CSS/JS and don't require a server.
 - The project is portable; just keep all files together in a directory.
-
-## License
-
-Feel free to modify or redistribute as needed.
